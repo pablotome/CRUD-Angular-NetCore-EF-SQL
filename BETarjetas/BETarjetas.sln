@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BETarjetas", "BETarjetas\BETarjetas.csproj", "{6A6E2C6E-D8A4-4E52-B74B-3E3ED2BB5ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6E2C6E-D8A4-4E52-B74B-3E3ED2BB5ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6E2C6E-D8A4-4E52-B74B-3E3ED2BB5ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6E2C6E-D8A4-4E52-B74B-3E3ED2BB5ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6E2C6E-D8A4-4E52-B74B-3E3ED2BB5ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55EB5C7C-BD8D-4373-A402-A7363F0945EA}
+	EndGlobalSection
+EndGlobal
